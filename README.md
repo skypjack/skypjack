@@ -4,7 +4,7 @@
 
 Despite what you may have thought, I'm not Zak. I’m **Michele Caini**, software developer from **Florence, Italy**.<br/>
 I'm also a **freelancer**, I work mainly remotely and in my free time I dedicate myself to some open source projects such as [`EnTT`](https://github.com/skypjack/entt).<br/>
-Oh... and I'm a father! I owe much of my happiness to my wife and son. They are the _task_ I spend the most time on with no regrets! :smile: :heart_eyes:
+Oh... and I'm a father! I owe much of my happiness to my wife and son. They are the _task_ I spend the most time on with no regrets! :smile::heart_eyes:
 
 🔭 I’m currently working on ...
 
