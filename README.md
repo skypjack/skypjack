@@ -8,16 +8,23 @@ Oh... and I'm a father! I owe much of my happiness to my wife and son. They are 
 
 🔭 I’m currently working on ...
 
-**Minecraft**, in collaboration with the Microsoft Mojang Studios and I'm very grateful to them for this opportunity.<br/>
+**Minecraft**, in collaboration with the Microsoft Mojang Studios :astonished: and I'm very grateful to them for this opportunity.<br/>
 I like the game and I like the team behind it as well. I'm struggling to do my best, time will tell me if I have succeeded.
 
 📫 How to reach me ...
 
-* Mail: michele.caini@gmail.com
-* Blog: https://skypjack.github.io/
-* Twitter: https://twitter.com/scaipgec
-  
-I **love** connecting with new people, so feel free to ping me.
+Check the links in my profile, you should find everything you need, from my blog to my mail and social networks.<br/>
+Since I **love** connecting with new people, feel free to ping me to say _hello_, introduce yourself and have a chat.
+
+💻 I'm a freelancer ...
+
+I already said it? Forgive me then :slightly_smiling_face: and don't hesitate to contact me if you want to offer a collaboration.<br/>
+I'm passionate about C++ and I'm particularly interested in gaming, high performance and optimization topics.
+
+🙏 Support me if you like ...
+
+Everything you can find on my GitHub profile or on my blog I do in my spare time, without any kind of income.<br/>
+If you want to help me by contributing or otherwise supporting me, you can take a look at my [sponsorship page](https://github.com/sponsors/skypjack).
 
 [![Twitter: scaipgec](https://img.shields.io/twitter/follow/scaipgec?style=social)](https://twitter.com/scaipgec)
 [![GitHub skypjack](https://img.shields.io/github/followers/skypjack?label=follow&style=social)](https://github.com/skypjack)
