@@ -9,7 +9,7 @@ Oh... and I'm a father too, madly in love with my wife and son who always suppor
 Something about me:
 
 * 🔭 I’m currently working on **Minecraft**, thanks to the Microsoft Mojang Studios :astonished: and I'm very grateful for this opportunity.
-* 💻 I'm a freelancer. Don't hesitate to contact me if you want to offer a collaboration. Fond of C++, gaming and high perf.
+* 💻 I'm a freelancer. Don't hesitate to contact me if you want to collaborate. Fond of C++, gaming and high perf.
 * 📫 Check the links in my profile. Feel free to ping me to say _hello_, introduce yourself and have a chat. 🙂
 
 #### 🙏 Support me if you like ...
